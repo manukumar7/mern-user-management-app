@@ -45,11 +45,11 @@
 - Toast notifications (react-hot-toast)
 - Export to CSV
 - Light/Dark mode toggle
+- filtering (search, sort, pagination)
 
 ### 🚀 Backend
 - RESTful API
 - Input validation
-- Query filtering (search, sort, pagination)
 - Multer image upload
 - MongoDB document handling via Mongoose
 - Rate limiting, sanitization, security headers
