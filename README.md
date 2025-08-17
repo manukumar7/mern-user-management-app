@@ -22,8 +22,6 @@
 - Helmet
 - express-rate-limit
 - express-validator
-- mongo-sanitize
-- xss-clean
 - CORS
 
 **🖼️ Image Upload:**
