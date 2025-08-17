@@ -38,13 +38,11 @@
 - User CRUD operations
 - Profile image upload
 - Modal-based edit/delete
-- Paginated, searchable, sortable table
 - Debounced search
 - Lazy image loading
 - Skeleton loaders
 - Toast notifications (react-hot-toast)
 - Export to CSV
-- Light/Dark mode toggle
 - filtering (search, sort, pagination)
 
 ### 🚀 Backend
