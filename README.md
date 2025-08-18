@@ -54,11 +54,6 @@
 
 ---
 
-## 🌎 Live Demo
-> Coming soon...
-
----
-
 ## 🔄 Installation
 
 ```bash
