@@ -57,7 +57,7 @@
 ## 🔄 Installation
 
 ```bash
-git clone https://github.com/your-username/mern-user-management-app.git
+git clone https://github.com/manukumar7/mern-user-management-app.git
 cd mern-user-management-app
 ```
 
